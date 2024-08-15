@@ -5,7 +5,7 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
 $allowedUrls = [
-    'https://stream.zeno.fm/yn65fsaurfhvv',
+    'https://167.99.115.71/listen/worldrp/stream',
     'https://sv2.globalhostlive.com/proxy/bendistereo/stream2',
     'https://azuracast.invictamix.pt:8093/emissao.mp3',
     'https://stream.radiorostova.ru/radio-rostova-high.mp3',
