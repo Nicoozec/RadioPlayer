@@ -1,13 +1,13 @@
-const RADIO_NAME = 'Jailson Web Rádio';
+const RADIO_NAME = 'WorldRP';
 
 // Change Stream URL Here, Supports, ICECAST, ZENO, SHOUTCAST, RADIOJAR and any other stream service.
-const URL_STREAMING = 'https://stream.zeno.fm/yn65fsaurfhvv';
+const URL_STREAMING = 'https://167.99.115.71/listen/worldrp/stream';
 
 //API URL /
-const API_URL = 'https://twj.es/radio_info/?radio_url='+URL_STREAMING
+const API_URL = 'https://167.99.115.71/api/nowplaying/2'+URL_STREAMING
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
-const API_KEY = "18fe07917957c289983464588aabddfb";
+const API_KEY = "03f7df033464c793a9e6a3e10540b96d";
 
 let userInteracted = true;
 
