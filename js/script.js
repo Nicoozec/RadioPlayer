@@ -4,7 +4,7 @@ const RADIO_NAME = 'WorldRP';
 const URL_STREAMING = 'https://167.99.115.71/listen/worldrp/stream';
 
 //API URL /
-const API_URL = 'https://167.99.115.71/api/nowplaying/2'+URL_STREAMING
+const API_URL = 'https://167.99.115.71/api/nowplaying/2'
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
 const API_KEY = "03f7df033464c793a9e6a3e10540b96d";
